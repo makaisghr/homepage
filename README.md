@@ -1,2 +1,2 @@
-# homepage
-My online blog
+# Homepage
+我的主页
